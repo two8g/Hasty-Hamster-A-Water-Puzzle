@@ -1,0 +1,1285 @@
+
+sw.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+bg/bg
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+sw2.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+bg/city
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+sw3.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+bg/jungle
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+sw4.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+bg/lab
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+sw5.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+bg/map
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+sw6.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+postWater/button
+  rotate: false
+  xy: 544, 416
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+postWater/buttonBg
+  rotate: false
+  xy: 384, 192
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+postWater/clickPos
+  rotate: false
+  xy: 288, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+postWater/clickPosDisabled
+  rotate: false
+  xy: 256, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+postWater/converter
+  rotate: false
+  xy: 256, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+postWater/converterOff
+  rotate: false
+  xy: 416, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+postWater/converterP
+  rotate: false
+  xy: 416, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+postWater/eff/bombFire
+  rotate: false
+  xy: 672, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+postWater/eff/bombSmoke
+  rotate: false
+  xy: 288, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+postWater/eff/bubble
+  rotate: false
+  xy: 512, 224
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+postWater/eff/fuseSpark
+  rotate: false
+  xy: 544, 384
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+postWater/eff/jetSmoke
+  rotate: false
+  xy: 672, 416
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+postWater/eff/jewelSpark
+  rotate: false
+  xy: 384, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+postWater/sBomb
+  rotate: false
+  xy: 544, 448
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+postWater/sBombRemote
+  rotate: false
+  xy: 384, 128
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+postWater/teleTmp
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+postWater/walls/door
+  rotate: false
+  xy: 384, 0
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+postWater/walls/doorBase
+  rotate: false
+  xy: 0, 0
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+postWater/walls/solid1
+  rotate: false
+  xy: 32, 0
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+postWater/walls/solid2
+  rotate: false
+  xy: 64, 0
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+postWater/walls/solid3
+  rotate: false
+  xy: 96, 0
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+postWater/walls/solidWeak1
+  rotate: false
+  xy: 128, 0
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+postWater/walls/solidWeak2
+  rotate: false
+  xy: 160, 0
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+postWater/walls/wall15
+  rotate: false
+  xy: 192, 0
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+postWater/walls/wall25
+  rotate: false
+  xy: 224, 0
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+postWater/walls/wall50
+  rotate: false
+  xy: 256, 256
+  size: 32, 256
+  orig: 32, 256
+  offset: 0, 0
+  index: -1
+postWater/white
+  rotate: false
+  xy: 736, 504
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+
+sw7.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+preWater/bomb
+  rotate: false
+  xy: 640, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+preWater/boulder
+  rotate: false
+  xy: 512, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+preWater/cellBg1
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+preWater/cellBg2
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+preWater/cellBgInv1
+  rotate: false
+  xy: 256, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+preWater/cellBgInv2
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+preWater/hamster/f
+  rotate: false
+  xy: 768, 320
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+preWater/hamster/fDrown
+  rotate: false
+  xy: 896, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+preWater/hamster/fExc
+  rotate: false
+  xy: 960, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+preWater/hamster/fa
+  rotate: false
+  xy: 640, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+preWater/hamster/h
+  rotate: false
+  xy: 512, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+preWater/hamster/hf
+  rotate: false
+  xy: 640, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+preWater/hamster/hj
+  rotate: false
+  xy: 512, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+preWater/hamster/hs
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+preWater/hamster/hw
+  rotate: false
+  xy: 640, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+preWater/jewelGlo
+  rotate: false
+  xy: 704, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+preWater/jewelShard
+  rotate: false
+  xy: 640, 96
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+preWater/mazeExit
+  rotate: false
+  xy: 768, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+preWater/shardGlo
+  rotate: false
+  xy: 768, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+preWater/smallBoulder
+  rotate: false
+  xy: 832, 320
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+preWater/treasure
+  rotate: false
+  xy: 896, 384
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+
+sw8.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+ui/bg/dlgBg
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+sw9.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+ui/bg/mapBg
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+sw10.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+ui/gloMap/bBack
+  rotate: false
+  xy: 512, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/bRealShoppe
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/gloMap/bShoppe
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/gloMap/bTut
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/data
+  rotate: false
+  xy: 256, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/gloMap/dataFinished
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/gloMap/dataStar
+  rotate: false
+  xy: 768, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ui/gloMap/iLife
+  rotate: false
+  xy: 512, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+sw11.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+ui/gloMap/dlg/bDlgAd
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/bDlgCancel
+  rotate: false
+  xy: 256, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/bDlgPlay
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/bDlgRealShoppe
+  rotate: false
+  xy: 256, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/bDlgShoppe
+  rotate: false
+  xy: 384, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/circle
+  rotate: false
+  xy: 256, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/circleFull
+  rotate: false
+  xy: 256, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/drop
+  rotate: false
+  xy: 384, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/dropFull
+  rotate: false
+  xy: 512, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/drops
+  rotate: false
+  xy: 384, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/dropsFull
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/hex
+  rotate: false
+  xy: 512, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/hexBig
+  rotate: false
+  xy: 640, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/hexFull
+  rotate: false
+  xy: 512, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/hexWeird
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/tri
+  rotate: false
+  xy: 640, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/icons/triFull
+  rotate: false
+  xy: 640, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/starRowBg
+  rotate: false
+  xy: 640, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/starRowEff
+  rotate: false
+  xy: 768, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/gloMap/dlg/starRowIcon
+  rotate: false
+  xy: 896, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+sw12.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+ui/langList/bApply
+  rotate: false
+  xy: 256, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/langList/bClose
+  rotate: false
+  xy: 256, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/langList/caIcon
+  rotate: false
+  xy: 0, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/langList/caName
+  rotate: false
+  xy: 768, 896
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ui/langList/contribIcon
+  rotate: false
+  xy: 0, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/langList/contribName
+  rotate: false
+  xy: 768, 768
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ui/langList/deIcon
+  rotate: false
+  xy: 256, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/langList/deName
+  rotate: false
+  xy: 256, 384
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ui/langList/enIcon
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/langList/enName
+  rotate: false
+  xy: 512, 640
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ui/langList/esIcon
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/langList/esName
+  rotate: false
+  xy: 768, 640
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ui/langList/jaIcon
+  rotate: false
+  xy: 256, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/langList/jaName
+  rotate: false
+  xy: 256, 256
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ui/langList/rowBg
+  rotate: false
+  xy: 768, 632
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+ui/langList/ruIcon
+  rotate: false
+  xy: 512, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/langList/ruName
+  rotate: false
+  xy: 512, 512
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ui/langList/topBg
+  rotate: false
+  xy: 512, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+sw13.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+ui/scene/bBomb
+  rotate: false
+  xy: 256, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/bCork
+  rotate: false
+  xy: 512, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/bJet
+  rotate: false
+  xy: 256, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/bScuba
+  rotate: false
+  xy: 256, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/bTele
+  rotate: false
+  xy: 384, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/bWheel
+  rotate: false
+  xy: 256, 384
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+ui/scene/bbCancel
+  rotate: false
+  xy: 640, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/iPoison
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/scene/iScuba
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/scene/sLife
+  rotate: false
+  xy: 384, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/sMenu
+  rotate: false
+  xy: 384, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/sMoney
+  rotate: false
+  xy: 512, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/starCauseArrow
+  rotate: false
+  xy: 768, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ui/scene/starCauseBonus
+  rotate: false
+  xy: 768, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/starCauseJewelBreak
+  rotate: false
+  xy: 896, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/starCauseJewelLeft
+  rotate: false
+  xy: 512, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/starCausePill
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/starCauseTime
+  rotate: false
+  xy: 640, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/starRowBg
+  rotate: false
+  xy: 640, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/starRowEff
+  rotate: false
+  xy: 640, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/starRowIcon
+  rotate: false
+  xy: 768, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+sw14.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+ui/scene/dlg/bBigCancel
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/bCancel
+  rotate: false
+  xy: 512, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/bDone
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/bExit
+  rotate: false
+  xy: 256, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/bMusic
+  rotate: false
+  xy: 512, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/bNoSound
+  rotate: false
+  xy: 640, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/bNoWheel
+  rotate: false
+  xy: 512, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/bRestart
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/bShare
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/bSound
+  rotate: false
+  xy: 640, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/bWheel
+  rotate: false
+  xy: 768, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/lifeRowEff
+  rotate: false
+  xy: 896, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/lifeRowIcon
+  rotate: false
+  xy: 640, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/starRowBg
+  rotate: false
+  xy: 640, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/starRowEff
+  rotate: false
+  xy: 768, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/dlg/starRowIcon
+  rotate: false
+  xy: 896, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+sw15.png
+size: 1024,256
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+ui/scene/portraits/hamster
+  rotate: false
+  xy: 512, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/portraits/phone
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/scene/portraits/phoneRot
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/scene/portraits/prof
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/scene/portraits/tutArrow
+  rotate: false
+  xy: 640, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+sw16.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+ui/shoppe/bBuy
+  rotate: false
+  xy: 512, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/shoppe/bClose
+  rotate: false
+  xy: 512, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/shoppe/bPur
+  rotate: false
+  xy: 640, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/shoppe/bUnlock
+  rotate: false
+  xy: 512, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/shoppe/bUpg
+  rotate: false
+  xy: 512, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/shoppe/bomb
+  rotate: false
+  xy: 0, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/busy
+  rotate: false
+  xy: 0, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/cork
+  rotate: false
+  xy: 256, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/jet
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/life
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/lung
+  rotate: false
+  xy: 256, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/pill
+  rotate: false
+  xy: 512, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/pur0
+  rotate: false
+  xy: 768, 768
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/pur1
+  rotate: false
+  xy: 256, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/pur2
+  rotate: false
+  xy: 256, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/rowBg
+  rotate: false
+  xy: 768, 504
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+ui/shoppe/scuba
+  rotate: false
+  xy: 512, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/tele
+  rotate: false
+  xy: 768, 512
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/shoppe/topBg
+  rotate: false
+  xy: 640, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+sw17.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearNearest,Nearest
+repeat: none
+ui/title/bLang
+  rotate: false
+  xy: 0, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/title/bMusic
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/title/bNoSound
+  rotate: false
+  xy: 256, 384
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/title/bPlay
+  rotate: false
+  xy: 0, 256
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ui/title/bSound
+  rotate: false
+  xy: 128, 128
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ui/title/jewel
+  rotate: false
+  xy: 256, 320
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ui/title/title
+  rotate: false
+  xy: 0, 512
+  size: 1024, 512
+  orig: 1024, 512
+  offset: 0, 0
+  index: -1
